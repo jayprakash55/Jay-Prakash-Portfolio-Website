@@ -23,6 +23,7 @@ body {
 .container-center {
     max-width: 600px;
     margin: auto;
+    margin-bottom: 1rem;
 }
 
 .link {
@@ -113,7 +114,7 @@ body {
 
 .footer {
     background-color: var(--primary-color);
-    padding: 2rem 1rem;
+    padding: 1.5rem 1rem;
     color: white;
     text-align: center;
     border-top-right-radius: 0.5rem;
